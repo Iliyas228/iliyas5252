@@ -1,0 +1,26 @@
+.d1 {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.d2 a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.d3 a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+}
