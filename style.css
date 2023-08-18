@@ -24,3 +24,13 @@ body {
     display: flex;
     justify-content: center;
 }
+.i1{
+    display: flex;
+    justify-content: center;
+}
+.a5 a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
